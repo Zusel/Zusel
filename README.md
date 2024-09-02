@@ -28,8 +28,5 @@ LinkedIn: https://www.linkedin.com/in/florian-zeps-37b79b208/
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Zusel&icon=1&color=6)](https://visitcount.itsvg.in)
