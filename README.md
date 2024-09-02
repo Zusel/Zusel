@@ -1,11 +1,10 @@
 # 💫About Me :
 👋 Willkommen auf meinem GitHub-Profil!
-Ich bin ein leidenschaftlicher Entwickler mit einem Fokus auf Backend-Entwicklung. Mein Ziel ist es, durch Code innovative Lösungen zu schaffen und spannende Projekte zu realisieren.
+Ich bin ein leidenschaftlicher Entwickler mit einem Fokus auf Backend-Entwicklung. <br> Mein Ziel ist es, durch Code innovative Lösungen zu schaffen und spannende Projekte zu realisieren.
 
-💼 Berufliche Interessen:
-Programmiersprachen: Java, (Python, Bash)
-Frameworks & Tools: Spring-Boot, Docker, REST
-Interessensgebiete: [z.B. Künstliche Intelligenz, Open Source, DevOps]
+💼 Berufliche Interessen: <br>
+Programmiersprachen: Java, (Python, Bash) <br>
+Frameworks & Tools: Spring-Boot, Docker, REST <br>
 
 🌱 Was ich gerade lerne:
 Vue.Js
